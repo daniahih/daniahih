@@ -8,7 +8,7 @@ As a dedicated computer engineer, I bring a profound passion for the world of te
 - **Frameworks:** React, Node.js, Express
 - **Database:** MongoDB, Mysql
 - **Design:** Figma
-- **BI** Power BI ,Tableau
+- **BI** : Power BI ,Tableau
 ## 📫 How to Reach Me
 
 - **GitHub:** [daniahih](https://github.com/daniahih/)
