@@ -3,9 +3,7 @@
 
 As a dedicated computer engineer, I bring a profound passion for the world of technology, with a particular fervor for front-end development. Currently, I'm honored to serve as a lecturer at Apple Seeds, where I contribute to shaping the future of Full Stack developers
 
-**About me**
-- 💼 FrontEnd Instructor at AppleSeeds
-  
+
 
 ## 🔧 Skills
 
