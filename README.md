@@ -5,7 +5,7 @@ As a dedicated computer engineer, I bring a profound passion for the world of te
 
 **About me**
 - 💼 FrontEnd Instructor at AppleSeeds
-- 
+  
 
 ## 🔧 Skills
 
