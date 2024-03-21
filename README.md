@@ -15,3 +15,4 @@ As a dedicated computer engineer, I bring a profound passion for the world of te
 - **LinkedIn:** (https://www.linkedin.com/in/dania-hih)
 - **Email:** daniahih310@gmail.com
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniahih&show_icons=true&locale=en" alt="daniahih" /></p>
