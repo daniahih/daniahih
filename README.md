@@ -1,4 +1,4 @@
-#  Hi there, I'm Dania Hih! 
+<p align="center"><a href="https://github.com/daniahih"><img width="80%" alt="Hello, I'm Dania Hih" src="./assets/gh-readme-header.png" /></a></p>
 
 As a dedicated computer engineer, I bring a profound passion for the world of technology, with a particular fervor for front-end development. Currently, I'm honored to serve as a lecturer at Apple Seeds, where I contribute to shaping the future of Full Stack developers
 
