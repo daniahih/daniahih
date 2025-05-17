@@ -12,6 +12,7 @@ As a dedicated computer engineer, I bring a profound passion for the world of te
 - **Database:** MongoDB, Mysql
 - **Design:** Figma
 - **BI** : Power BI ,Tableau
+- **Data Analysis**: excel , stream lit  , matplotlib , seaborn 
 ## 📫 How to Reach Me
 
 - **GitHub:** [daniahih](https://github.com/daniahih/)
